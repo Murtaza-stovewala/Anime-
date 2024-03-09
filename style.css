@@ -78,7 +78,7 @@ p {
     color: black;
    #photo2 {
         height: 70%;
-        width: 90%;
+        width: 100%;
         background-image: url(sassuke.png);
         background-size: cover;
         background-repeat: no-repeat;
@@ -94,7 +94,7 @@ p {
     color: black;
    #photo3 {
         height: 70%;
-        width: 90%;
+        width: 100%;
         background-image: url(kakashi.png);
         background-size: cover;
         background-repeat: no-repeat;
